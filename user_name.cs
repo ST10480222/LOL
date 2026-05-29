@@ -170,7 +170,7 @@ namespace LOL
                 messageColor = Brushes.Red;
             }
 
-
+            //
 
             messageText.Inlines.Add(new Run
             {
