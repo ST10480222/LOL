@@ -58,7 +58,7 @@ namespace LOL
         }
 
 
-
+        //
         //submit name  event handler
         private void submit_name(object sender, RoutedEventArgs e)
         {
