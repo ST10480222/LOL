@@ -120,7 +120,7 @@ namespace LOL
         //end for the username submit
 
 
-
+        //
         //start of ai_chat method
         private void ai_check(string questions)
         {
