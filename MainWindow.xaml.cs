@@ -33,7 +33,7 @@ namespace LOL
         int counting = 0;
 
 
-
+        //
         public MainWindow()
         {
             InitializeComponent();
