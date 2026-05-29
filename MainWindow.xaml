@@ -56,7 +56,7 @@
             Hidden .
         -->
         <Grid x:Name="username_grid" Visibility="Hidden" Background="DarkGray">
-//
+
 
             <!-- Logo -->
             <Image 
