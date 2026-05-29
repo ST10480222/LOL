@@ -81,7 +81,7 @@ namespace LOL
 
 
         }//end of
-
+        //
         //method to check name of the user
         private Boolean check_name(string name)
         {//start
